@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @meetmodi05
 - 👀 I’m interested in App Development as well as DataScience Engineer!
-- 🌱 I’m have knowledge of Machine Learning with both Python as well as RStudio
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I have knowledge of Machine Learning with both Python as well as RStudio
 - 📫 How to reach me Insta: @imeet68
 
 <!---
