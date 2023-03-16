@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @meetmodi05
-- 👀 I’m interested in App Development as well as DataScience Engineer!
-- 🌱 I have knowledge of Machine Learning with both Python as well as RStudio
-- 📫 How to reach me Insta: @imeet68
+- 👀 I’m interested in App Development
 
 <!---
 meetmodi05/meetmodi05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
